@@ -21,7 +21,7 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 bottom-40 z-50 w-full bg-white/80 backdrop-blur-md transition-all border-b border-border">
-      <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+      <div className="container mx-auto px-4  flex items-center justify-between">
         <div className="flex items-center">
           <Link href="/" className="flex items-center mr-6">
             <span className="text-2xl font-bold text-primary">
